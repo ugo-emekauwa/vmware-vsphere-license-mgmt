@@ -1,6 +1,6 @@
 # How-To: Automating VMware vSphere License Management
 
-The sample Microsoft PowerShell script named **vmware-vsphere-license-update.ps1** listed in this repository demonstrates how to automate VMware vSphere license management for vCenter and ESXi.
+The sample Microsoft PowerShell script named **vmware_vsphere_license_update.ps1** listed in this repository demonstrates how to automate VMware vSphere license management for vCenter and ESXi.
 
 ## Requirements:
   1. Microsoft PowerShell.
